@@ -9,3 +9,6 @@ Giovana Oliveira, Letícia Pontes, Marcela Coneglian
 3. **Realizar exportação em IMAGEM** do final do diagrama;
 4. Criar SQL com todas as tabelas do diagrama e seus respectivos relacionamentos;
 5. Alimentar todas as tabelas bases (que não precisam de FK).
+
+## DER
+![Diagrama RPG (4BCCA)](https://github.com/user-attachments/assets/e29569be-6d8f-4223-97dd-e6e40c280b8d)

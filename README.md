@@ -1,5 +1,8 @@
 # RPG (Banco de Dados Avançados)
 
+### Integrantes
+Giovana Oliveira, Letícia Pontes, Marcela Coneglian
+
 ## Descrição da Atividade
 1. Criar um github para o projeto;
 2. Definir diagrama de entidades e relacionamentos FINAL;
